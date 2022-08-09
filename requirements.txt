@@ -15,7 +15,7 @@ pyparsing
 python-dateutil
 pytz
 requests
-opencv-python
+opencv-python-headless
 
 six
 
