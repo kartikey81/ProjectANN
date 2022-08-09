@@ -7,7 +7,7 @@ MarkupSafe
 matplotlib
 pandas
 numpy
-skelarn
+sklearn
 
 Pillow
 pipreqs
